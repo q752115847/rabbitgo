@@ -2,7 +2,7 @@
 基于golang的rabbitmq连接池
 
 ### 安装rabbitgo
-go get github.com/kirinlabs/rabbitgo
+go get github.com/q752115847/rabbitgo
 
 
 ### 如何使用rabbitgo?
