@@ -1,4 +1,4 @@
-module github.com/kirinlabs/rabbitgo
+module github.com/q752115847/rabbitgo
 
 go 1.16
 
